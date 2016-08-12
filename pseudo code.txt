@@ -1,0 +1,11 @@
+The Word Answer
+
+player guess
+player guessed word check with arrary
+  - if word check is wrong, store in bank , substract total guesses, print wrong letter
+  - if word check is right, do nothing to total guesses, print correct letter
+
+
+if uses all guesses, print lose, add lose
+if player guess word, print win, add win
+
